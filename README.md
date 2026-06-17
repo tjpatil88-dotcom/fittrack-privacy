@@ -1,2 +1,2 @@
 # fittrack-privacy
-Privacy Policy for FitTrack App
+Privacy Policy for FitTrack GPS Pro App
