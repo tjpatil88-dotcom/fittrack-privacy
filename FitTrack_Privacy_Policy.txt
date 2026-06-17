@@ -3,10 +3,10 @@ Privacy Policy
 Last updated: June 16, 2026
 
 1. Introduction
-FitTrack Pro is a fitness tracking mobile application developed by Tejas. This Privacy Policy explains how we handle your information.
+FitTrack GPS Pro is a fitness tracking mobile application developed by Tejas. This Privacy Policy explains how we handle your information.
 
 2. No Data Collection
-FitTrack Pro does not collect, store, or transmit any personal data to any servers or third parties. The app works completely offline.
+FitTrack GPS Pro does not collect, store, or transmit any personal data to any servers or third parties. The app works completely offline.
 
 3. Local Storage Only
 All workout data — including GPS routes, distance, speed, steps, calories, history, and statistics — is stored only on your device. No data is uploaded to the internet or shared with anyone.
